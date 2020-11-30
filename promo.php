@@ -1,6 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
-include "function.php";
+include "sido.php";
 echo color("green","[]      BISMILLAHIRRAHMANIRRAHIM      []\n");
 echo color("yellow","[]          BY : xxxxx  xxxxx         []\n");
 echo color("green","[]  Time  : ".date('[d-m-Y] [H:i:s]')."   []\n");
